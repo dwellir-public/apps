@@ -22,7 +22,6 @@ export const ethereumChains = [
   'Darwinia2',
   'Crab2',
   'Pangolin2',
-  'Pangoro2',
   'thebifrost-dev',
   'thebifrost-testnet',
   'thebifrost-mainnet',
@@ -33,5 +32,8 @@ export const ethereumChains = [
   'quantum-portal-network-parachain',
   'peerplays',
   'innovatorchain',
-  'masverse'
+  'masverse',
+  'laos',
+  'klaos',
+  'muse'
 ];

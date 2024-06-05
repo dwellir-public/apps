@@ -23,6 +23,8 @@ export const POLKADOT_DENOM_BLOCK = new BN(1248328);
 
 export const ROCOCO_GENESIS = getGenesis('rococo');
 
+export const PASEO_GENESIS = '0x77afd6190f1554ad45fd0d31aee62aacc33c6db0ea801129acb813f913e0764f';
+
 export const WESTEND_GENESIS = getGenesis('westend');
 
 export const NEATCOIN_GENESIS = '0xfbb541421d30423c9a753ffa844b64fd44d823f513bf49e3b73b3a656309a595';
